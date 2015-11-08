@@ -1,0 +1,8 @@
+nodes=30
+inter_edges=200
+intra_edges=400
+clusters=8
+number_of_graphs=50
+coupling_strength=15
+coupling_probability=0.99
+running_time=40
